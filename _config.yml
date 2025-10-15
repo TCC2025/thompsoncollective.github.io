@@ -1,0 +1,7 @@
+title: "Thompson & Co Collective"
+email: "hello@thompsoncollective.co"
+description: "Recruitment marketing and employer branding consulting."
+baseurl: "" # leave empty for user site
+url: "https://thompsoncollective.github.io" # replace with your URL or custom domain later
+theme: minima
+plugins: []
