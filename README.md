@@ -1,5 +1,5 @@
 ```markdown
-# Your Firm Name — website repo
+# Thompson & Co Collective — website repo
 
 This repository contains the source for the firm's MVP site: homepage, contact form, and blog.
 
