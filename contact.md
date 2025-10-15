@@ -3,24 +3,10 @@ layout: default
 title: Contact
 permalink: /contact.html
 ---
-# Contact
 
-Send us a note and we’ll get back to you within 2 business days.
+<!-- Embedded Google Form -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXzi1qspLgZ4XywbGFwTAPMnZ6Za2NW5A5QseT4F0Yvy2i0w/viewform?embedded=true" width="640" height="1302" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name</label><br>
-  <input id="name" type="text" name="name" required><br><br>
-  <label for="email">Email</label><br>
-  <input id="email" type="email" name="_replyto" required><br><br>
-  <label for="company">Company</label><br>
-  <input id="company" type="text" name="company"><br><br>
-  <label for="message">Message</label><br>
-  <textarea id="message" name="message" rows="6"></textarea><br><br>
-  <!-- Anti-spam: optional honeypot -->
-  <input type="text" name="_gotcha" style="display:none">
-  <button type="submit">Send</button>
-</form>
-
-<p>Or email us directly at hello@thompsoncollective.co</p>
-
-<!-- Replace the form action above with your Formspree endpoint after sign-up -->
+<p>
+Or contact us directly: <a href="mailto:outreach@thompsoncollective.co">outreach@thompsoncollective.co</a>
+</p>
